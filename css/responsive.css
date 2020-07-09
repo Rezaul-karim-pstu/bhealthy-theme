@@ -1,0 +1,269 @@
+/*=========================================
+xl- Extra large Device ( Desktop Device )
+===========================================*/
+@media (min-width: 1200px) {
+
+
+}
+
+/*=========================================
+lg- large Device (Laptop Device)
+===========================================*/
+@media (min-width: 992px) and (max-width: 1199px) {
+    .header-area .logo a {
+        font-size: 20px;
+    }
+    .header-area .logo a h2{
+        letter-spacing: 0;
+    }
+    .footer-logo h2 a {
+        font-size: 28px;
+    }
+    .footer-part-2 ul li {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .footer-part-2 ul {
+        padding-left: 10px;
+    }
+    .see-more-btn {
+        height: 99px;
+        width: 32%;
+    }
+    .see-more-btn .btn-see-more {
+        font-size: 16px;
+    }
+
+    .footer-part-2 h3 {
+        margin-left: 10px;
+    }
+    .subscribe-area {
+        margin-left: 10px;
+    }
+    .menu-bottom-section p {
+        width: 285px;
+    }
+
+
+
+}
+
+/*=========================================
+md- Medium Device (Tablet Device/ Lanscape Smart Phone)
+===========================================*/
+@media (min-width: 768px) and (max-width: 991px) {
+    .header-area .logo a {
+        font-size: 18px;
+    }
+    .header-area .logo a h2{
+        letter-spacing: 0;
+    }
+    .menu-bottom-section p {
+        font-size: 14px;
+        width: 270px;
+    }
+    .menu-social-link a i {
+        margin-right: 0;
+    }
+.container-wrapper{
+    margin-bottom: 273px;
+}
+.single-portfolio {
+	width: 50%;
+}
+.off_canvous_menu {
+    right: -50%;
+    width: 50%;
+}
+.social-link {
+	width: 2%;
+}
+.social-link i.fab {
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
+	font-size: 14px;
+}
+.footer-logo h2 a {
+	font-size: 28px;
+}
+.footer-logo p {
+	font-size: 18px;
+}
+.footer-part-2 h3 {
+	margin-left: 35px;
+	margin-bottom: 10px;
+}
+.footer-part-2 ul li i {
+	font-size: 18px;
+	margin-right: 10px;
+}
+.footer-part-2 ul li {
+	font-size: 14px;
+	margin-bottom: 10px;
+}
+.footer-area {
+	padding: 40px 10px;
+}
+.copy-right-area {
+	border-top: none;
+}
+.see-more-btn {
+	height: 114px;
+}
+.subscribe-area {
+	margin-left: 30px;
+	margin-top: 10px;
+}
+
+}
+
+/*=========================================
+sm- Small Device [576px] (Large Smart phone Device)
+===========================================*/
+@media (min-width: 320px) and (max-width: 767px) {
+    .header-area .logo a {
+        font-size: 18px;
+    }
+    .header-area .logo a h2{
+        letter-spacing: 0;
+    }
+    .menu-bottom-section p {
+        font-size: 14px;
+        width: 235px;
+    }
+    .menu-social-link a i {
+        margin-right: 0;
+    }
+.container-wrapper{
+    margin-bottom: 273px;
+}
+.single-portfolio {
+	width: 50%;
+}
+.off_canvous_menu {
+    right: -50%;
+    width: 50%;
+}
+.social-link {
+	width: 2%;
+}
+.social-link i.fab {
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
+	font-size: 14px;
+}
+.footer-logo h2 a {
+	font-size: 28px;
+}
+.footer-logo p {
+	font-size: 15px;
+}
+.footer-part-2 h3 {
+	margin-left: 35px;
+	margin-bottom: 10px;
+}
+.footer-part-2 ul li i {
+	font-size: 18px;
+	margin-right: 10px;
+}
+.footer-part-2 ul li {
+	font-size: 14px;
+	margin-bottom: 10px;
+}
+.footer-area {
+	padding: 40px 10px;
+}
+.copy-right-area {
+	border-top: none;
+}
+.see-more-btn {
+	height: 114px;
+}
+.subscribe-area {
+	margin-left: 30px;
+	margin-top: 10px;
+}
+.cross_icon span {
+	border-left: none;
+}
+}
+
+/*=========================================
+-- Extra small Device-Part-1 [480px] (Smart Phone Device--Portrate)
+===========================================*/
+@media (min-width: 320px) and (max-width: 575px) {
+    .off_canvous_menu {
+        padding: 5px;
+    }
+    .off_canvous_menu ul {
+        padding: 0;
+        padding-bottom: 280px;
+    }
+    .menu-bottom-section {
+        left: 5px;
+    }
+    .menu-bottom-section p {
+        width: 230px;
+    }
+    .container-wrapper{
+        margin-bottom: 373px;
+    }
+    .btn-cta {
+        font-size: 12px;
+        padding: 5px 15px;
+    }
+    .footer-logo {
+        padding: 30px;
+    }
+
+}
+
+/*=========================================
+-- Extra small Device-Part-2 (Smart Phone Device--Portrate)
+===========================================*/
+@media (min-width: 320px) and (max-width: 479px) {
+
+    .single-portfolio {
+        width: 100%;
+    }
+
+    .off_canvous_menu {
+        right: -90%;
+        width: 90%;
+    }
+    .footer-area {
+        padding: 20px 10px;
+        padding-bottom: 40px;
+    }
+    .footer-logo {
+        padding: 0;
+        padding-left: 40px;
+    }
+    .menu-bottom-section p {
+        width: 280px;
+    }
+
+    .container-wrapper{
+        margin-bottom:400px;
+    }
+
+
+
+
+
+
+
+}
+
+/*=========================================
+Landscape Orientation
+===========================================*/
+@media (orientation:landscape) and (max-width:991px){
+    .fixed-nav .navbar{
+        position: static;
+    }
+
+}
